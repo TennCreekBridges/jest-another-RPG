@@ -1,26 +1,16 @@
 {
-  "name": "jest-another-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "awesome rpg",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TennCreekBridges/jest-another-RPG.git"
-  },
-  "keywords": [
-    "node",
-    "oop"
-  ],
-  "author": "bridgett valet",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TennCreekBridges/jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/TennCreekBridges/jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^27.5.1"
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
